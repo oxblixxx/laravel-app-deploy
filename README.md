@@ -1,4 +1,4 @@
-# ip address to the app 3.91.104.69
+# ip address to the app http://3.91.104.69
 
 
 
